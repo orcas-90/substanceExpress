@@ -1,0 +1,20 @@
+[
+    {
+        "id": "1fa921",
+        "substance": "вода",
+        "boiling": 100,
+        "freezing": 0
+    },
+    {
+        "id": "fa9210",
+        "substance": "этанол",
+        "boiling": 78.29,
+        "freezing": -114.14
+    },
+    {
+        "id": "a9210c",
+        "substance": "хлороформ",
+        "boiling": 61.717,
+        "freezing": -63.41
+    }
+]
